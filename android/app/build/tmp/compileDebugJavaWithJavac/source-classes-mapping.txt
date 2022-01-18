@@ -1,0 +1,14 @@
+com/manganimes/ReactNativeFlipper.java
+ com.manganimes.ReactNativeFlipper
+ com.manganimes.ReactNativeFlipper$1
+ com.manganimes.ReactNativeFlipper$2
+ com.manganimes.ReactNativeFlipper$2$1
+com/manganimes/BuildConfig.java
+ com.manganimes.BuildConfig
+com/manganimes/MainApplication.java
+ com.manganimes.MainApplication
+ com.manganimes.MainApplication$1
+com/manganimes/MainActivity.java
+ com.manganimes.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
